@@ -9,4 +9,5 @@
 将 `cTotalCMD.exe` `cTotalCMD.install.exe`放在TC目录中     
 运行cTotalCMD.install.exe
 ##帮助
+
 http://blog.xiazhiri.com/tc-as-default-2.html
